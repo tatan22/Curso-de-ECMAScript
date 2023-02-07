@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Curso de ECMAScript y versiones de Javascript.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +12,6 @@
     "ecmascript"
   ],
   "author": "Jhonatan Cardona <tatancarduar@gmail.com>",
-  "license": "MIT",
-  "type": "module"
+  "license": "MIT"
+  
 }
